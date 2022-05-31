@@ -1,0 +1,127 @@
+impact	Europe	Asia	America	Oceania	Africa	Other
+Value Added	1348608.14878	1414175.71241	1455857.93875	151875.055355	309167.842389	1141258.95797
+Employment	160844.428868	129820.984317	137934.192923	15513.4807461	27791.1105296	93066.4898726
+Employment hour	351962862110	270682283206	298615041955	33437663530.2	59459602236	204103885763
+GHG emissions (GWP100) | Problem oriented approach: baseline (CML, 2001) | GWP100 (IPCC, 2007)	1.5690276586e+12	1.54994267701e+12	1.52779915582e+12	167093703880	309057278734	1.28113232321e+12
+Human toxicity (USEtox) | USEtox2008 | CTUh (Rosenbaum et al., 2008)	1081893.18753	1027569.17209	1217342.85296	146726.529196	274790.952252	927279.357796
+Fresh water Ecotoxicity (USEtox) | USEtox2008 | CTUe (Rosenbaum et al., 2008)	621940301602	619232043038	657774782970	83690839833.3	153929638343	458184919531
+EPS | Damage Approach | EPS (Steen, 1999))	3.02351433948e+12	2.03495252402e+12	3.37535675382e+12	373569681935	674989155555	3.11303243669e+12
+Carcinogenic effects on humans (H.A) | ECOINDICATOR 99 (H.A) | Carcinogenic effects on humans (H.A)	310384.93971	286033.07428	362263.217672	41573.1299071	76608.7562582	264441.634511
+Respiratory effects on humans caused by organic substances (H.A) | ECOINDICATOR 99 (H.A) | Respiratory effects on humans caused by organic substances (H.A)	2471.95750716	2984.28454911	2380.25170942	290.943816681	537.093825088	2025.75044109
+Respiratory effects on humans caused by inorganic substances (H.A) | ECOINDICATOR 99 (H.A) | Respiratory effects on humans caused by inorganic substances (H.A)	187762020682	188855394648	208636179020	26002199383.3	49655421702	160487221398
+Damages to human health caused by climate change (H.A) | ECOINDICATOR 99 (H.A) | Damages to human health caused by climate change (H.A)	309324.274786	301484.424518	301851.520661	33091.0934372	61235.2082649	253080.041942
+Damage to Ecosystem Quality caused by ecotoxic emissions (H.A) | ECOINDICATOR 99 (H.A) | Damage to Ecosystem Quality caused by ecotoxic emissions (H.A)	187764454445	188857501343	208638751536	26002525317.7	49656031725.9	160489326771
+Damage to Ecosystem Quality caused by the combined effect of acidification and eutrophication (H.A) | ECOINDICATOR 99 (H.A) | Damage to Ecosystem Quality caused by the combined effect of acidification and eutrophication (H.A)	109985036460	122397003313	82432669766.1	11239692971.3	22572439259.8	59810389946.4
+Carcinogenic effects on humans (E.E) | ECOINDICATOR 99 (E.E) | Carcinogenic effects on humans (E.E)	310384.93971	286033.07428	362263.217672	41573.1299071	76608.7562582	264441.634511
+Respiratory effects on humans caused by organic substances (E.E) | ECOINDICATOR 99 (E.E) | Respiratory effects on humans caused by organic substances (E.E)	1064147.89623	798690.35349	1214243.24841	131455.427806	234032.720623	1100719.10913
+Respiratory effects on humans caused by inorganic substances (E.E) | ECOINDICATOR 99 (E.E) | Respiratory effects on humans caused by inorganic substances (E.E)	1021939.30457	1009924.42839	893859.037563	111233.558814	212106.461941	697332.33133
+Damages to human health caused by climate change (E.E) | ECOINDICATOR 99 (E.E) | Damages to human health caused by climate change (E.E)	309324.274786	301484.424518	301851.520661	33091.0934372	61235.2082649	253080.041942
+Damage to Ecosystem Quality caused by ecotoxic emissions (E.E)) | ECOINDICATOR 99 (E.E) | Damage to Ecosystem Quality caused by ecotoxic emissions (E.E))	187764454445	188857501343	208638751536	26002525317.7	49656031725.9	160489326771
+Damage to Ecosystem Quality caused by the combined effect of acidification and eutrophication (E.E) | ECOINDICATOR 99 (E.E) | Damage to Ecosystem Quality caused by the combined effect of acidification and eutrophication (E.E)	109985036460	122397003313	82432669766.1	11239692971.3	22572439259.8	59810389946.4
+Carcinogenic effects on humans (I.I) | ECOINDICATOR 99 (I.I) | Carcinogenic effects on humans (I.I)	33109.5530694	28455.297073	38226.9372779	4380.43763351	8094.85660362	30222.3438835
+Respiratory effects on humans caused by organic substances (I.I) | ECOINDICATOR 99 (I.I) | Respiratory effects on humans caused by organic substances (I.I)	2536.29723878	3066.85385789	2401.97416522	291.225334722	535.494277639	2018.40536713
+Respiratory effects on humans caused by inorganic substances (I.I) | ECOINDICATOR 99 (I.I) | Respiratory effects on humans caused by inorganic substances (I.I)	1233110.6393	1049661.9025	1257239.54404	144263.732934	263957.38722	1086614.2051
+Damages to human health caused by climate change (I.I) | ECOINDICATOR 99 (I.I) | Damages to human health caused by climate change (I.I)	299440.586633	292875.614506	291222.302588	31929.0967622	59059.8915994	243866.048869
+Damage to Ecosystem Quality caused by ecotoxic emissions (I.I) | ECOINDICATOR 99 (I.I) | Damage to Ecosystem Quality caused by ecotoxic emissions (I.I)	24560705672.5	23767724103.7	25460618063	3291866533.82	6107316294.15	19118598639.9
+Damage to Ecosystem Quality caused by the combined effect of acidification and eutrophication (I.I) | ECOINDICATOR 99 (I.I) | Damage to Ecosystem Quality caused by the combined effect of acidification and eutrophication (I.I)	109985036460	122397003313	82432669766.1	11239692971.3	22572439259.8	59810389946.4
+Unused Domestic Extraction	2614606.54175	5402643.09246	2589698.07094	211872.306639	418687.075651	2570499.00642
+Water Consumption Green - Agriculture	510824.788629	459591.353486	288140.812743	35029.1403419	73024.1562391	324049.895299
+Water Consumption Blue - Agriculture	76223.6119378	80989.2860159	50995.8646691	6652.32714436	12530.3181949	40922.0760038
+Water Consumption Blue - Livestock	2062.67290733	1940.12570405	1144.04358644	141.864478262	314.692941288	1430.99834947
+Water Consumption Blue - Manufacturing	5272.69959649	2320.94849886	6421.41983069	608.917634823	1079.64901974	6308.7356806
+Water Consumption Blue - Electricity	120.595855421	186.302591495	137.614020574	17.0138585052	36.2562605241	84.607381725
+Water Consumption Blue - Domestic	0	0	0	0	0	0
+Water Consumption Blue - Total	83679.580297	85436.6628103	58698.9421068	7420.12311595	13960.9164165	48746.4174156
+Water Withdrawal Blue - Manufacturing	22381.0756641	15674.278806	26206.8270814	2942.00695731	5419.26730424	23211.5638533
+Water Withdrawal Blue - Electricity	9901.41242258	13479.874356	9161.17986442	1245.65140666	2431.20376059	3934.59079404
+Water Withdrawal Blue - Domestic	0	0	0	0	0	0
+Water Withdrawal Blue - Total	32282.4880867	29154.1531619	35368.0069458	4187.65836397	7850.47106483	27146.1546474
+Carbon dioxide (CO2) IPCC categories 1 to 4 and 6 to 7 (excl land use, land use change and forestry)	888313.161062	769861.706623	1000717.55749	108859.057053	201876.902582	852275.826526
+Methane (CH4) IPCC categories 1 to 4 and 6 to 7 (excl land use, land use change and forestry)	20490.74821	25003.9971661	16177.7862202	1776.8553288	3112.22391382	11676.2413987
+Nitrous Oxide (N2O) IPCC categories 1 to 4 and 6 to 7 (excl land use, land use change and forestry)	16.5545966984	14.657460052	13.8011400488	1.76405573953	3.26845416031	13.2735846623
+Carbon dioxide (CO2) CO2EQ IPCC categories 1 to 4 and 6 to 7 (excl land use, land use change and forestry)	888313.161062	769861.706623	1000717.55749	108859.057053	201876.902582	852275.826526
+Methane (CH4) CO2EQ IPCC categories 1 to 4 and 6 to 7 (excl land use, land use change and forestry)	500313.53747	614289.529697	397235.092689	43568.2881314	75976.6011076	283803.579678
+Nitrous Oxide (N2O) CO2EQ IPCC categories 1 to 4 and 6 to 7 (excl land use, land use change and forestry)	147438.869756	133227.88461	90050.7285134	10694.5820653	22775.6404543	100536.795278
+Carbon dioxide (CO2) Fuel combustion and cement	869065.370222	756097.460856	978535.999684	106574.24417	197361.846456	828655.268129
+Carbon dioxide (CO2) Fuel combustion	784283.303758	710174.222005	873618.239391	96068.0277415	178530.231413	730977.761893
+GHG emissions (GWP100) | Problem oriented approach: baseline (CML, 1999) | GWP100 (IPCC, 2007)	1.56911496559e+12	1.55004807885e+12	1.52788322385e+12	167103979715	309076248333	1.28120387062e+12
+GHG emissions (GWP100min) | Problem oriented approach: non baseline (CML, 1999) | net GWP100 min(Houghton et al., 2001)	1.5565715543e+12	1.52276131387e+12	1.52730677286e+12	166953684108	309179501719	1.28629494883e+12
+GHG emissions (GWP100max) | Problem oriented approach: non baseline (CML, 1999) | net GWP100 max(Houghton et al., 2001)	1.57998336871e+12	1.53921274051e+12	1.5557636905e+12	169828638234	314640085736	1.31458757525e+12
+GHG emissions (GWP20) | Problem oriented approach: non baseline (CML, 1999) | GWP20 (IPCC, 2007)	2.50444705203e+12	2.69974033741e+12	2.27073258964e+12	248573119748	450965519401	1.81057477785e+12
+GHG emissions (GWP500) | Problem oriented approach: non baseline (CML, 1999) | GWP500 (IPCC, 2007)	1.15015037171e+12	1.05914403055e+12	1.20923907059e+12	131726213567	245457174681	1.03630226039e+12
+ozone layer depletion (ODP steady state) | Problem oriented approach: baseline (CML, 1999) | ODP steady state (WMO, 2003)	44417.9864569	53623.8629919	42770.1479036	5227.896706	9650.90466956	36400.2032384
+human toxicity (HTP inf) | Problem oriented approach: baseline (CML, 1999) | HTP inf. (Huijbregts, 1999 & 2000)	1.0157452897e+13	7.22749106583e+12	1.16364350576e+13	1.28955607466e+12	2.33314442745e+12	1.01660293878e+13
+Freshwater aquatic ecotoxicity (FAETP inf) | Problem oriented approach: baseline (CML, 1999) | FAETP inf. (Huijbregts, 1999 & 2000)	7440273330.88	5510867443.9	8849797371.47	955941590.749	1760915717.38	7685914811.05
+Marine aquatic ecotoxicity (MAETP inf) | Problem oriented approach: baseline (CML, 1999) | MAETP inf. (Huijbregts, 1999 & 2000)	1.92672001212e+13	1.67946342164e+13	2.29521389146e+13	2.56727781189e+12	4.73445055783e+12	1.79833864274e+13
+Freshwater sedimental ecotoxicity (FSETP inf) | Problem oriented approach: non baseline (CML, 1999) | FSETP inf. (Huijbregts, 1999 & 2000)	13016659462.4	10111053354.2	16123998525.3	1701634814.02	3185993683.56	13730091357.6
+Marine sedimental ecotoxicity (MSETP inf) | Problem oriented approach: non baseline (CML, 1999) | MSETP inf. (Huijbregts, 1999 & 2000)	1.82949134335e+13	1.58173319182e+13	2.14796640116e+13	2.42110567391e+12	4.45407372451e+12	1.67112672005e+13
+Terrestrial ecotoxicity (TETP inf) | Problem oriented approach: baseline (CML, 1999) | TETP inf.(Huijbregts, 1999 & 2000)	62859670622.3	60274201879.4	69117418225.4	8497687358.72	15877822291.1	52464714610.6
+human toxicity (HTP20) | Problem oriented approach: non baseline (CML, 1999) | HTP 20 (Huijbregts, 1999 & 2000)	1.78298107609e+12	1.88864311385e+12	2.2127352595e+12	249448269724	463446217695	1.38003879419e+12
+Freshwater aquatic ecotoxicity (FAETP20) | Problem oriented approach: non baseline (CML, 1999) | FAETP 20 (Huijbregts, 1999 & 2000)	1310291754.88	791366543.633	1808274450.85	168356075.003	328345664.53	1801654723.79
+Marine aquatic ecotoxicity (MAETP20) | Problem oriented approach: non baseline (CML, 1999) | MAETP 20 (Huijbregts, 1999 & 2000)	57780535493.3	40976067478.8	74582525285.8	7497437638.5	14182981069.2	67233002570.1
+Freshwater sedimental ecotoxicity (FSETP20) | Problem oriented approach: non baseline (CML, 1999) | FSETP 20 (Huijbregts, 1999 & 2000)	4080213723.66	2415236131.4	5673191305.06	524281657.18	1024841536.21	5693165572.25
+Marine sedimental ecotoxicity (MSETP20) | Problem oriented approach: non baseline (CML, 1999) | MSETP 20 (Huijbregts, 1999 & 2000)	141667249674	93139066555.8	188670470891	18313762354.8	35042246000.4	178036945600
+Terrestrial ecotoxicity (TETP20) | Problem oriented approach: non baseline (CML, 1999) | TETP 20 (Huijbregts, 1999 & 2000)	299668672.907	233447537.683	355936399.459	38590417.2344	69668657.9936	283668540.444
+human toxicity (HTP100) | Problem oriented approach: non baseline (CML, 1999) | HTP 100 (Huijbregts, 1999 & 2000)	1.78392619129e+12	1.88968634523e+12	2.21380782031e+12	249583414280	463713189892	1.38088495092e+12
+Freshwater aquatic ecotoxicity (FAETP100) | Problem oriented approach: non baseline (CML, 1999) | FAETP 100 (Huijbregts, 1999 & 2000)	1646966559.83	1052077183.3	2235059018.31	212669744.774	411109092.532	2164781807.58
+Marine aquatic ecotoxicity (MAETP100) | Problem oriented approach: non baseline (CML, 1999) | MAETP 100 (Huijbregts, 1999 & 2000)	193983479740	160132421196	232256631086	25385317939.1	46725563676.4	184223936046
+Freshwater sedimental ecotoxicity (FSETP100) | Problem oriented approach: non baseline (CML, 1999) | FSETP 100 (Huijbregts, 1999 & 2000)	5026351484.31	3116664713.45	6884467113.89	648080967.331	1257240828.61	6750666566.69
+Marine sedimental ecotoxicity (MSETP100) | Problem oriented approach: non baseline (CML, 1999) | MSETP 100 (Huijbregts, 1999 & 2000)	307882282121	236825488163	382226978330	40139535162.9	74883517864.6	324232057776
+Terrestrial ecotoxicity (TETP100) | Problem oriented approach: non baseline (CML, 1999) | TETP 100 (Huijbregts, 1999 & 2000)	1412865252.46	1111441533.46	1668744144.23	182078311.959	328305264.784	1319226021.89
+human toxicity (HTP500) | Problem oriented approach: non baseline (CML, 1999) | HTP 500 (Huijbregts, 1999 & 2000)	1.78485659862e+12	1.89064738644e+12	2.21488876462e+12	249715177878	463969772078	1.38173581851e+12
+Freshwater aquatic ecotoxicity (FAETP500) | Problem oriented approach: non baseline (CML, 1999) | FAETP 500 (Huijbregts, 1999 & 2000)	2465966664.96	1756979003.41	3184245640.19	319827700.762	605460774.991	2875592891.44
+Marine aquatic ecotoxicity (MAETP500) | Problem oriented approach: non baseline (CML, 1999) | MAETP 500 (Huijbregts, 1999 & 2000)	884920720669	777002076023	1.02070172493e+12	116204861935	211283485891	754766753969
+Freshwater sedimental ecotoxicity (FSETP500) | Problem oriented approach: non baseline (CML, 1999) | FSETP 500 (Huijbregts, 1999 & 2000)	7104493977.03	4902450587.82	9285331656.02	919659992.418	1749642285.73	8547541192.35
+Marine sedimental ecotoxicity (MSETP500) | Problem oriented approach: non baseline (CML, 1999) | MSETP 500 (Huijbregts, 1999 & 2000)	999358400275	854248291461	1.1700894069e+12	131024477175	239604778198	894773644071
+Terrestrial ecotoxicity (TETP500) | Problem oriented approach: non baseline (CML, 1999) | TETP 500 (Huijbregts, 1999 & 2000) TETP 500	5886769379.87	4729043872.75	6905501023	761957375.934	1377856122.41	5426428835.98
+photochemical oxidation (high NOx) | Problem oriented approach: baseline (CML, 1999) | POCP (Jenkin & Hayman, 1999; Derwent et al. 1998; high NOx)	939485810.272	882200437.762	982531766.736	108747213.035	198882058.911	877052120.199
+photochemical oxidation (low NOx) | Problem oriented approach: non baseline (CML, 1999) | POCP (Andersson-Skï¿½ld et al. 1992; low NOx)	608324078.653	501029601.025	680364178.818	69698203.1979	130485128.653	645317530.735
+photochemical oxidation (MIR; very high NOx) | Problem oriented approach: non baseline (CML, 1999) | MIR 1997; very high NOx (Carter, 1994, 1997, 1998;Carter, Pierce, Luo &  Malkina, 1995 )	267344681.26	229897737.836	291212955.976	29970559.1094	55840928.3143	271749584.119
+photochemical oxidation (MOIR; high NOx) | Problem oriented approach: non baseline (CML, 1999) | MOIR; high NOx (Carter, 1994, 1997, 1998;Carter, Pierce, Luo &  Malkina, 1995 )	479559099.409	410546754.53	523851131.78	53885955.5046	100451916.559	489708085.418
+photochemical oxidation (EBIR; low NOx) | Problem oriented approach: non baseline (CML, 1999) | EBIR; low NOx (Carter, 1994, 1997, 1998;Carter, Pierce, Luo &  Malkina, 1995 )	613231440.038	525495623.448	669457609.768	68871235.0593	128372380.716	625582877.477
+acidification (incl. fate, average Europe total, A&B) | Problem oriented approach: baseline (CML, 1999) | AP ( Huijbregts, 1999; average Europe total, A&B)	15856170755.5	16011515152.3	13248013213.1	1696393470.99	3254110075.64	10197261494.8
+acidification (fate not incl.) | Problem oriented approach: non baseline (CML, 1999) | AP (Hauschild & Wenzel (1998).	17192947335.1	17760639488.5	14058215088.5	1821953728.59	3531234634.89	10693647806.8
+eutrophication (fate not incl.) | Problem oriented approach: baseline (CML, 1999) | EP (Heijungs et al. 1992))	2507484554.39	2797726145.02	1831308687.15	250643227.526	507827300.292	1348012741.96
+eutrophication (incl. fate, average Europe total, A&B) | Problem oriented approach: non baseline (CML, 1999) | EP ( Huijbregts, 1999; average Europe total, A&B)	27821208943.5	31719352015.9	20085231588.5	2802260855.99	5695975408.99	14290928235.1
+odour | Problem oriented approach: non baseline (CML, 1999) | 1/OTV	5.52574360543e+15	6.55464879177e+15	3.67926032674e+15	5.40645357226e+14	1.12120014164e+15	2.51448807334e+15
+Climate change midpoint | ILCD recommended CF | Global warming potential 100 years	1.53858130361e+12	1.52103762467e+12	1.49203332273e+12	163493655243	301470690399	1.24037619856e+12
+Climate change endpoint, human health | ILCD recommended CF | Disability Adjusted Life Years (DALY)	2153912.66601	2129360.05064	2088782.68005	228883.613692	422042.942695	1736455.90538
+Climate change endpoint, ecosystems | ILCD recommended CF | Potentially Disappeared Fraction of species (PDF)	12194.4146782	12054.313108	11826.937685	1295.95951088	2389.67005826	9832.3181941
+Human toxicity midpoint, cancer effects | ILCD recommended CF | Comparative Toxic Unit for human (CTUh)	4877.41016692	4308.02847063	5961.95235028	652.148847568	1202.3972494	4451.80723837
+Human toxicity midpoint, non-cancer effects | ILCD recommended CF | Comparative Toxic Unit for human (CTUh)	1058574.25711	1006588.08174	1191283.48208	143619.867587	269034.416571	906950.051373
+Human toxicity endpoint, cancer effects | ILCD recommended CF | Disability Adjusted Life Years (DALY)	56074.5281651	49539.2438011	68544.0812371	7498.1566838	13825.4269105	51179.567632
+Human toxicity endpoint, non-cancer effects | ILCD recommended CF | Disability Adjusted Life Years (DALY)	2856937.47557	2717020.18546	3215095.45575	387627.831214	726144.866975	2447638.97615
+Particulate matter/Respiratory inorganics midpoint | ILCD recommended CF | emission-weighed average PM2.5 equivalent	2177459947.56	1678874378.81	2344700181.67	257616672.542	468812636.252	2110913329.28
+Particulate matter/Respiratory inorganics endpoint | ILCD recommended CF | Disability Adjusted Life Years (DALY)	3919427.89264	3021973.87136	4220460.3129	463710.009063	843862.742323	3799643.97924
+Photochemical ozone formation midpoint, human health | ILCD recommended CF | Photochemical ozone creation potential (POCP)	3026885764.24	3228546686.2	3046281894.82	353190671.994	648850368.822	2661653765.4
+Photochemical ozone formation endpoint, human health | ILCD recommended CF | Disability Adjusted Life Years (DALY)	118.076423891	125.943719696	118.831742244	13.7771248553	25.3102279195	103.828200401
+Acidification midpoint | ILCD recommended CF | Accumulated Exceedance (AE)	22498797853.7	24217846246.9	17207623976.4	2323128230.11	4582145781	12751498656.7
+Acidification endpoint | ILCD recommended CF | Change in potentially not occuring fraction of plant species per change in base saturation	104.193881761	112.65790597	79.2365616625	10.7338050325	21.2168464761	58.5415467608
+Eutrophication terrestrial midpoint | ILCD recommended CF | Accumulated Exceedance (AE)	74597538673.4	88487758688.9	49670014411.1	7298712322.55	15136201912.1	33945588990.1
+Eutrophication marine midpoint | ILCD recommended CF | Potentially Disappeared Fraction of species (PDF)	618883283.809	734120664.678	412077156.595	60552280.0093	125574415.863	281622664.214
+Ecotoxicity freshwater midpoint | ILCD recommended CF | Comparative Toxic Unit for ecosystems (CTUe)	537279597712	527427621555	553188082227	71766126120.4	131707156345	394046180945
+Ecotoxicity freshwater endpoint | ILCD recommended CF | Potentially Disappeared Fraction of species (PDF)	537279597712	527427621555	553188082227	71766126120.4	131707156345	394046180945
+GHG emissions AR5 (GWP100) | GWP100 (IPCC, 2010)	1.61281539743e+12	1.60901631959e+12	1.56561903275e+12	171149011801	315678173132	1.304170922e+12
+Nitrogen	2856005828.86	2873835461.77	2322418366.34	275109552.289	615050254.116	2368220753.88
+Phosphorous	1755608496.64	1714124072.76	982743884.869	133426870.866	295577872.659	1419169840.62
+PM10	1209253577.8	889629703.345	1395129460.43	149665425.569	266044168.789	1277528005.59
+PM25	868496471.707	659683533.156	983548279.544	107167806.874	190985356.725	884962048.242
+SOx	4435917683.41	3376188470.06	4653631900.46	527007062.05	913069735.311	3937209675.76
+NOx	3383962677.91	2945657490.72	3554062584.42	397931259.142	729080826.301	2899066399.95
+Domestic Extraction Used - Crop and Crop Residue	479228.504448	465641.945195	293113.505032	37222.0293989	81774.6896017	354183.465408
+Domestic Extraction Used - Grazing and Fodder	747529.750457	740814.514438	382749.744447	50839.6706025	112155.207749	487841.059268
+Domestic Extraction Used - Forestry and Timber	166678.984429	144375.84972	90647.6832358	10469.4439205	23653.9231376	109857.460984
+Domestic Extraction Used â Fisheries	5672.83624241	5880.70675793	3929.59350415	483.030525282	1055.5322787	3869.77865177
+Domestic Extraction Used - Non-metalic Minerals	1938734.43676	2229884.96962	2251493.78448	240004.61372	338851.861276	1963362.1478
+Domestic Extraction Used - Iron Ore	148135.836273	246359.301019	161659.944215	14627.1764062	24610.9388379	184237.17858
+Domestic Extraction Used - Non-ferous metal ores	323196.705602	530054.484795	240194.92407	27108.3746245	41593.5513178	240540.4775
+Unused Domestic Extraction - Crop and Crop Residue	269746.754951	244969.690421	168123.161281	20297.7079928	44143.8975503	199089.267019
+Unused Domestic Extraction - Grazing and Fodder	20040.2200058	33551.5553084	15917.9272709	2217.44070618	7285.36912425	23251.0168274
+Unused Domestic Extraction - Forestry and Timber	25001.5503753	22046.5727378	13960.2107527	1599.43892146	3703.91910695	16854.1250792
+Unused Domestic Extraction â Fisheries	1179.35939464	1246.54910039	806.858170337	99.5597247867	217.988968569	762.178799756
+Unused Domestic Extraction - Coal and Peat	1682095.21506	3971859.53412	1891690.04195	136040.199686	278193.458408	1849369.41195
+Unused Domestic Extraction - Oil and Gas	102091.35039	199375.711907	98117.3596978	10636.0409727	15298.9527124	33222.5886996
+Unused Domestic Extraction - Non-metalic Minerals	24014.1439698	69335.2679254	59378.5583117	4819.79788464	10197.4411078	43797.0334083
+Unused Domestic Extraction - Iron Ore	134110.720364	253397.581914	141742.890337	11989.9996069	21251.1971393	163650.96779
+Unused Domestic Extraction - Non-ferous metal ores	416952.654146	740601.181232	248208.426562	29931.2666789	46253.4632596	236559.743998
+Land use Crop, Forest, Pasture	4237455.99204	4416171.62118	2120977.31215	265799.060553	642899.230415	2722106.29885

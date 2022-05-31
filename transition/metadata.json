@@ -1,0 +1,33 @@
+{
+    "description": "Data for 2010",
+    "name": "exio382_ntnu_copy",
+    "system": "pxp",
+    "version": "v3.81",
+    "history": [
+        "20220531 14:49:10 - FILEIO -  Saved exio382_ntnu_copy to transition",
+        "20220531 14:49:10 - MODIFICATION -  Calculating accounts for extension impacts",
+        "20220531 14:49:10 - MODIFICATION -  Calculating accounts for extension satellite",
+        "20220531 14:49:10 - MODIFICATION -  Leontief matrix L calculated",
+        "20220531 14:49:10 - MODIFICATION -  Coefficient matrix A calculated",
+        "20220531 14:49:10 - MODIFICATION -  Calculating accounts for extension impacts",
+        "20220531 14:49:09 - MODIFICATION -  Calculating accounts for extension satellite",
+        "20220531 14:49:09 - MODIFICATION -  Aggregate extensions...",
+        "20220531 14:49:08 - MODIFICATION -  Aggregate extensions...",
+        "20220531 14:49:08 - MODIFICATION -  Aggregate industry output x",
+        "20220531 14:49:07 - MODIFICATION -  Aggregate transaction matrix Z",
+        "20220531 14:49:07 - MODIFICATION -  Aggregate final demand y",
+        "20220531 14:49:07 - MODIFICATION -  Reset to absolute flows",
+        "20220531 14:49:07 - NOTE -  IOSystem copy exio382_ntnu_copy based on exio382_ntnu",
+        "20220531 14:49:02 - MODIFICATION -  Changed country names",
+        "20220531 14:49:02 - FILEIO -  Added satellite account from IOT_2010_pxp",
+        "20220531 14:48:18 - FILEIO -  Added satellite account from IOT_2010_pxp/impacts",
+        "20220531 14:48:15 - FILEIO -  Added satellite account from IOT_2010_pxp/satellite",
+        "20220531 14:47:16 - FILEIO -  Loaded IO system from tmp/IOT_2010_pxp.zip - IOT_2010_pxp",
+        "20210907 22:45:03 - FILEIO -  Saved exio382_ntnu to /home/konstans/Xdrive/indecol/Projects/EXIOBASE_dev/EXIOBASE_3_8_2/upload_to_Box/public/IOT_txt/pxp/IOT_2010_pxp",
+        "20210907 22:40:18 - MODIFICATION -  Calculating accounts for extension impacts",
+        "20210907 22:40:11 - MODIFICATION -  Calculating accounts for extension satellite",
+        "20210907 22:40:11 - MODIFICATION -  Flow matrix Z calculated",
+        "20210907 22:40:10 - MODIFICATION -  Industry Output x calculated",
+        "20210907 22:40:02 - FILEIO -  Parsed EXIO3 from /home/konstans/Xdrive/indecol/Projects/EXIOBASE_dev/EXIOBASE_3_8_2/matlab_structure/IOT_2010_pxp.mat"
+    ]
+}
